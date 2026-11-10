@@ -1,0 +1,26 @@
+# FILE: .gitignore
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Folders that must NOT be uploaded to GitHub
+data/
+outputs/
+
+# Secrets
+.env
+
+# Model weight files: ignore all of them, EXCEPT our trained model
+*.pt
+!models/best.pt
+
+# Editor and operating-system clutter
+.vscode/
+.DS_Store
+Thumbs.db

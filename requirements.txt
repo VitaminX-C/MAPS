@@ -1,0 +1,14 @@
+# FILE: requirements.txt
+# Use Python 3.11 (the dev container installs it for you).
+# Note: "torch" and "torchvision" are NOT listed. ultralytics and easyocr
+# install them automatically, which is why the first install is large and slow.
+ultralytics==8.3.40
+opencv-python-headless==4.10.0.84
+easyocr==1.7.2
+spacy==3.7.5
+streamlit==1.40.1
+reportlab==4.2.5
+pandas==2.2.3
+numpy==1.26.4
+Pillow==10.4.0
+pytest==8.3.3
