@@ -1,0 +1,266 @@
+{
+  "full_text": "INGREDIENTS\nDurum Wheat Semoly\nSerrng Sze 55 9\nMANUFACTURED & MARKETED BY:\nSsai Nuirient per 100 prodvd o ihe\n353.3\nCoroorpre 755\nbc Svo 1.8\nAdded Sugor 0 0X\n11.5 12.67\nDclF 7 0.6 05\n0.1 0.0%\np0 Baxlb -04 0%\nSdium Imgl 0.2%\nRc tie\noveroge oovl par\nNet Quantity: Approxmoe volves NMT Noi Nor= Than\nMig. Date: ALLERGY ADYICE eat (Gluten).\nUse By: SEE PCK traces oi Nuts and Milk\nMRP = inc Or all taxesl: PLALE AWAY FROM DIRECT SUNLIGHT. STORE IN A COOL, DRY AND HYGIENIC\nLot No : FUNCTUPED. DO YOT BUY IE THE PACKET IS TORN OR\nOnce opened, store the contents in an\n906057 021833 Lio. All Cooyriaht of Weikfield Products Pvt Rigr Reserved.\nEP 26 FEB 28 00\n180;),36|9\nToA",
+  "lines": [
+    {
+      "text": "INGREDIENTS",
+      "confidence": 0.7184,
+      "bbox": [
+        632,
+        77,
+        817,
+        115
+      ]
+    },
+    {
+      "text": "Durum Wheat Semoly",
+      "confidence": 0.4723,
+      "bbox": [
+        634,
+        105,
+        903,
+        145
+      ]
+    },
+    {
+      "text": "Serrng Sze 55 9",
+      "confidence": 0.9237,
+      "bbox": [
+        634,
+        138,
+        810,
+        174
+      ]
+    },
+    {
+      "text": "MANUFACTURED & MARKETED BY:",
+      "confidence": 0.9308,
+      "bbox": [
+        55,
+        179,
+        469,
+        217
+      ]
+    },
+    {
+      "text": "Ssai Nuirient per 100 prodvd o ihe",
+      "confidence": 0.6003,
+      "bbox": [
+        344,
+        204,
+        987,
+        274
+      ]
+    },
+    {
+      "text": "353.3",
+      "confidence": 0.9987,
+      "bbox": [
+        918,
+        276,
+        982,
+        308
+      ]
+    },
+    {
+      "text": "Coroorpre 755",
+      "confidence": 0.4705,
+      "bbox": [
+        648,
+        312,
+        974,
+        350
+      ]
+    },
+    {
+      "text": "bc Svo 1.8",
+      "confidence": 0.5131,
+      "bbox": [
+        652,
+        348,
+        968,
+        388
+      ]
+    },
+    {
+      "text": "Added Sugor 0 0X",
+      "confidence": 0.5765,
+      "bbox": [
+        656,
+        376,
+        1060,
+        423
+      ]
+    },
+    {
+      "text": "11.5 12.67",
+      "confidence": 0.9244,
+      "bbox": [
+        924,
+        410,
+        1074,
+        440
+      ]
+    },
+    {
+      "text": "DclF 7 0.6 05",
+      "confidence": 0.7028,
+      "bbox": [
+        650,
+        444,
+        1070,
+        476
+      ]
+    },
+    {
+      "text": "0.1 0.0%",
+      "confidence": 0.9852,
+      "bbox": [
+        928,
+        476,
+        1068,
+        508
+      ]
+    },
+    {
+      "text": "p0 Baxlb -04 0%",
+      "confidence": 0.206,
+      "bbox": [
+        311,
+        507,
+        1058,
+        551
+      ]
+    },
+    {
+      "text": "Sdium Imgl 0.2%",
+      "confidence": 0.6995,
+      "bbox": [
+        645,
+        545,
+        1066,
+        583
+      ]
+    },
+    {
+      "text": "Rc tie",
+      "confidence": 0.2542,
+      "bbox": [
+        670,
+        584,
+        774,
+        612
+      ]
+    },
+    {
+      "text": "overoge oovl par",
+      "confidence": 0.2336,
+      "bbox": [
+        646,
+        614,
+        822,
+        642
+      ]
+    },
+    {
+      "text": "Net Quantity: Approxmoe volves NMT Noi Nor= Than",
+      "confidence": 0.6389,
+      "bbox": [
+        73,
+        631,
+        1072,
+        693
+      ]
+    },
+    {
+      "text": "Mig. Date: ALLERGY ADYICE eat (Gluten).",
+      "confidence": 0.5506,
+      "bbox": [
+        72,
+        692,
+        882,
+        752
+      ]
+    },
+    {
+      "text": "Use By: SEE PCK traces oi Nuts and Milk",
+      "confidence": 0.825,
+      "bbox": [
+        68,
+        742,
+        1003,
+        800
+      ]
+    },
+    {
+      "text": "MRP = inc Or all taxesl: PLALE AWAY FROM DIRECT SUNLIGHT. STORE IN A COOL, DRY AND HYGIENIC",
+      "confidence": 0.6058,
+      "bbox": [
+        71,
+        785,
+        1081,
+        857
+      ]
+    },
+    {
+      "text": "Lot No : FUNCTUPED. DO YOT BUY IE THE PACKET IS TORN OR",
+      "confidence": 0.6512,
+      "bbox": [
+        70,
+        839,
+        1079,
+        899
+      ]
+    },
+    {
+      "text": "Once opened, store the contents in an",
+      "confidence": 0.9757,
+      "bbox": [
+        634,
+        890,
+        1044,
+        938
+      ]
+    },
+    {
+      "text": "906057 021833 Lio. All Cooyriaht of Weikfield Products Pvt Rigr Reserved.",
+      "confidence": 0.7375,
+      "bbox": [
+        123,
+        965,
+        1068,
+        1061
+      ]
+    },
+    {
+      "text": "EP 26 FEB 28 00",
+      "confidence": 0.6533,
+      "bbox": [
+        161,
+        1159,
+        970,
+        1311
+      ]
+    },
+    {
+      "text": "180;),36|9",
+      "confidence": 0.3027,
+      "bbox": [
+        181,
+        1304,
+        338,
+        1379
+      ]
+    },
+    {
+      "text": "ToA",
+      "confidence": 0.2571,
+      "bbox": [
+        170,
+        1370,
+        252,
+        1418
+      ]
+    }
+  ],
+  "region_texts": []
+}
